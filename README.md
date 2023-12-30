@@ -29,6 +29,7 @@ If you're new to the repository, check out the [README](Learn-DSA/README.md) for
 
 - [HetavVyas](https://github.com/HetavVyas) - Maintainer
 - [Rohit Kumar Yadav](https://github.com/rohit-ayadav) - Contributor
+- [Rohit Nair](https://github.com/rohitsnair7272) (https://www.linkedin.com/in/rohitsnair2004) - Contributor
 
 Feel free to connect with us for any questions or discussions.
 
